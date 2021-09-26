@@ -10,5 +10,8 @@ The main goal of viewing or reading the news was to stay updated about what was 
 4. Data Validation: The procedure for fine-tuning hyperparameters before running the model. This allows for an independent evaluation of a model fit on the training dataset.
 5. Prediction on test data
 
+### About file:
+- fake news classifier:https://github.com/rahkum96/Fake-News-Classifier-With-NLP/blob/main/Fake%20News%20Classifier_ML.ipynb
+- fake news classifier with LST:https://github.com/rahkum96/Fake-News-Classifier-With-NLP/blob/main/Fake%20new_classifier_LSTM.ipynb
 ### dataset link
 https://www.kaggle.com/c/fake-news
