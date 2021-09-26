@@ -10,4 +10,5 @@ The main goal of viewing or reading the news was to stay updated about what was 
 4. Data Validation: The procedure for fine-tuning hyperparameters before running the model. This allows for an independent evaluation of a model fit on the training dataset.
 5. Prediction on test data
 
-
+### dataset link
+https://www.kaggle.com/c/fake-news
