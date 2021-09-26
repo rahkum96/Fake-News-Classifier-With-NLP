@@ -1,0 +1,2 @@
+# Fake-News-Classifier-With-NLP
+The main goal of viewing or reading the news was to stay updated about what was going on in the world. In the modern era, there are various social media platforms, such as Facebook, Twitter, Reddit, and others, which millions of people rely on to keep up with daily events. Then there was the fake news, which circulated as quickly as the genuine news. Fake news is information that has been integrated or misrepresented with the intent of guiding people down the wrong road or harming the reputation of a person or an institution.
