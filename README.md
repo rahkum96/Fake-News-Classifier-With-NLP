@@ -22,6 +22,7 @@ The main goal of viewing or reading the news was to stay updated about what was 
 - nltk
 - re
 - Pandas
+- numpy
 - Scikit-Learn &
 - seaborn
 ```
