@@ -3,7 +3,7 @@
 
 The main goal of viewing or reading the news was to stay updated about what was going on in the world. In the modern era, there are various social media platforms, such as Facebook, Twitter, Reddit, and others, which millions of people rely on to keep up with daily events. Then there was the fake news, which circulated as quickly as the genuine news. Fake news is information that has been integrated or misrepresented with the intent of guiding people down the wrong road or harming the reputation of a person or an institution.
 
-## Approach
+## Approach 
 1. Data collection:Data collection is the process of obtaining information from a variety of sources in order to solve a specific research challenge. This data is saved in a file called a dataset and is subjected to various processes such as testing and evaluation.
 2. Data Cleaning: Errors in the gathered data should be identified and corrected. This procedure is performed primarily to increase the dataset's quality, reliability, and accuracy of decision-making processes.
 3. Data Exploration/Analysis:The process of tuning a dataset using one or more machine learning algorithms to match it to a business need, predict, or validate it.
