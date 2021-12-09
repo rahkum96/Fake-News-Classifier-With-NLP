@@ -33,5 +33,5 @@ The main goal of viewing or reading the news was to stay updated about what was 
 - fake news classifier:https://github.com/rahkum96/Fake-News-Classifier-With-NLP/blob/main/Fake%20News%20Classifier_ML.ipynb
 - fake news classifier with LSTM:https://github.com/rahkum96/Fake-News-Classifier-With-NLP/blob/main/Fake%20new_classifier_LSTM.ipynb
 
-## dataset link
+## dataset link 
 https://www.kaggle.com/c/fake-news
